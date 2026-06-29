@@ -77,13 +77,11 @@ Current Focus:
 
 <p align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=CHAPARII&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&cache_seconds=1800"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=CHAPARII&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHAPARII&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHAPARII&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
-
-> 💡 If these don't load, the public vercel.app instance may be rate-limited. Consider deploying your own copy of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own) and swapping the domain in the URLs above.
 
 ---
 
@@ -111,11 +109,9 @@ Current Focus:
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=CHAPARII&theme=tokyonight&no-frame=true&column=4&margin-w=8&margin-h=8"/>
+<img src="https://github-profile-trophy.vercel.app/?username=CHAPARII&theme=tokyonight&no-frame=true&column=4"/>
 
 </p>
-
-> 💡 If trophies don't render, the public instance may be down. You can self-host via [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy#self-hosting-link).
 
 ---
 
@@ -156,7 +152,7 @@ Current Focus:
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:ashishhworkk@gmail.com">
+<a href="mailto:your.email@example.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
@@ -218,48 +214,13 @@ Current Focus:
 
 # 🐍 Contribution Snake
 
+> Requires GitHub Actions.
+
 <p align="center">
 
 <img src="https://raw.githubusercontent.com/CHAPARII/CHAPARII/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
-
-> ⚠️ **Setup required**: this image only appears once a GitHub Actions workflow has run in your `CHAPARII/CHAPARII` repo and pushed the generated SVG to an `output` branch.
->
-> 1. Create `.github/workflows/snake.yml` in your `CHAPARII/CHAPARII` repo with the contents below.
-> 2. Go to the **Actions** tab and manually run the workflow once ("Run workflow").
-> 3. Check that an `output` branch was created containing the SVG files.
-> 4. The image above will then load correctly.
->
-> ```yaml
-> name: Generate Snake
-> on:
->   schedule:
->     - cron: "0 */12 * * *"
->   workflow_dispatch:
->   push:
->     branches:
->       - main
->
-> jobs:
->   generate:
->     permissions:
->       contents: write
->     runs-on: ubuntu-latest
->     steps:
->       - uses: Platane/snk@v3
->         with:
->           github_user_name: ${{ github.repository_owner }}
->           outputs: |
->             dist/github-contribution-grid-snake.svg
->             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
->       - uses: crazy-max/ghaction-github-pages@v4
->         with:
->           target_branch: output
->           build_dir: dist
->         env:
->           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-> ```
 
 ---
 
