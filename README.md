@@ -30,7 +30,7 @@ Computer Science Student • Full Stack Developer • Hardware Builder • PCB D
 
 ---
 
-# 🚀 About Me
+#  About Me
 
 ```yaml
 Name: Navi Raj
@@ -63,7 +63,7 @@ Current Focus:
 
 ---
 
-# 🛠 Tech Stack
+#  Tech Stack
 
 <p align="center">
 
@@ -73,7 +73,7 @@ Current Focus:
 
 ---
 
-# 📊 GitHub Stats
+#  GitHub Stats
 
 <p align="center">
 
@@ -85,7 +85,7 @@ Current Focus:
 
 ---
 
-# 🔥 GitHub Streak
+#  GitHub Streak
 
 <p align="center">
 
@@ -95,7 +95,7 @@ Current Focus:
 
 ---
 
-# 📈 Contribution Graph
+#  Contribution Graph
 
 <p align="center">
 
@@ -105,7 +105,7 @@ Current Focus:
 
 ---
 
-# 🏆 GitHub Trophies
+#  GitHub Trophies
 
 <p align="center">
 
@@ -115,7 +115,7 @@ Current Focus:
 
 ---
 
-# 🚀 Featured Projects
+#  Featured Projects
 
 | Project | Description |
 |----------|-------------|
@@ -128,19 +128,19 @@ Current Focus:
 
 ---
 
-# 🌱 Currently Learning
+#  Currently Learning
 
 - C++
 - Data Structures & Algorithms
 - Backend Development
 - Embedded Systems
 - PCB Designing
-- Robotics
+- C Programing
 - AI
 
 ---
 
-# 📫 Connect With Me
+#  Connect With Me
 
 <p align="center">
 
@@ -176,13 +176,13 @@ Current Focus:
 
 ---
 
-# 💬 Favorite Quote
+#  Favorite Quote
 
 > "The best way to predict the future is to build it."
 
 ---
 
-# 📈 Profile Summary
+#  Profile Summary
 
 <p align="center">
 
@@ -192,7 +192,7 @@ Current Focus:
 
 ---
 
-# 📊 Detailed GitHub Summary
+#  Detailed GitHub Summary
 
 <p align="center">
 
@@ -212,7 +212,7 @@ Current Focus:
 
 ---
 
-# 🐍 Contribution Snake
+#  Contribution Snake
 
 > Requires GitHub Actions.
 
@@ -224,7 +224,7 @@ Current Focus:
 
 ---
 
-# ⚡ Fun Fact
+#  Fun Fact
 
 ```cpp
 while(alive)
