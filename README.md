@@ -3,7 +3,7 @@
 <!-- ===================================================== -->
 
 <h1 align="center">
-  Hi 👋, I'm Navi Raj
+  Hi 👋, I'm Navi
 </h1>
 
 <h3 align="center">
@@ -33,7 +33,7 @@ Computer Science Student • Full Stack Developer • Hardware Builder • PCB D
 #  About Me
 
 ```yaml
-Name: Navi Raj
+Name: Navi 
 Username: CHAPARII
 Country: India 🇮🇳
 
